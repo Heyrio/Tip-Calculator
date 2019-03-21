@@ -1,0 +1,25 @@
+body {
+  background-color: #232323;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.calcBox {
+border: 5px solid gold;
+border-radius: 20px;
+  padding: 3%;
+  background-color: gray;
+  width: 400px;
+  height: 200px;
+}
+
+textarea{
+  width: 100%;
+  resize: none;
+}
+
+
